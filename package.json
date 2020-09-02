@@ -6,6 +6,7 @@
   "author": "Tomek Kolasa <kolasa.tomek@gmail.com>",
   "license": "MIT",
   "main": "dist/index.js",
+  "type": "module",
   "types": "dist/index.d.ts",
   "files": [
     "/dist"
